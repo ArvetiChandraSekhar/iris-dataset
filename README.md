@@ -132,6 +132,11 @@ pip install kagglehub pandas numpy matplotlib seaborn scikit-learn xgboost jupyt
 - Confusion matrix for each model
 - Bar chart comparison of accuracy, precision, recall, F1 across all models
 
+
+<img width="2138" height="1045" alt="image" src="https://github.com/user-attachments/assets/8a907283-b31f-469c-ba65-d46a9cd36603" />
+
+<img width="2152" height="1062" alt="image" src="https://github.com/user-attachments/assets/25bfcbe5-cf38-459b-a635-28cf30eaf03d" />
+
 ---
 
 ## License
