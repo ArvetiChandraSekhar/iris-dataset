@@ -4,7 +4,7 @@ A hands-on machine learning project that trains and evaluates **7 classification
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This notebook demonstrates:
 - How to load, explore, and visualize a dataset
@@ -17,7 +17,7 @@ This notebook demonstrates:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 iris-classification/
@@ -29,7 +29,7 @@ iris-classification/
 
 ---
 
-## 🧪 Models Trained
+## Models Trained
 
 | Model | Type | Kernel / Config |
 |---|---|---|
@@ -43,7 +43,7 @@ iris-classification/
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 Each model is evaluated using:
 
@@ -64,7 +64,7 @@ Each model is evaluated using:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -89,7 +89,7 @@ jupyter notebook iris-dataset.ipynb
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 ```
 kagglehub
@@ -110,7 +110,7 @@ pip install kagglehub pandas numpy matplotlib seaborn scikit-learn xgboost jupyt
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 | Concept | Description |
 |---|---|
@@ -123,7 +123,7 @@ pip install kagglehub pandas numpy matplotlib seaborn scikit-learn xgboost jupyt
 
 ---
 
-## 📸 Sample Outputs
+## Sample Outputs
 
 - Pairplot of all feature combinations colored by species
 - Sepal Length vs. Sepal Width scatter plot
@@ -134,13 +134,13 @@ pip install kagglehub pandas numpy matplotlib seaborn scikit-learn xgboost jupyt
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙋 Author
+## Author
 
 Made by **Chandra Sekhar** · [GitHub](https://github.com/ArvetiChandraSekhar) · [LinkedIn](https://linkedin.com/in/chandra-sekhar-arveti/)
 
